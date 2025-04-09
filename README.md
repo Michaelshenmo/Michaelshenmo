@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on TBSvs.CLS
 - 🌱 I’m currently learning HTML, Python & C++
-- 👯 I’m looking to collaborate on ClassWidgets/ClassWidgets
+- 👯 I’m looking to collaborate on Class-Widgets/Class-Widgets
