@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Data](https://github-readme-stats.vercel.app/api?username=Michaelshenmo)
+
+- 🔭 I’m currently working on TBSvs.CLS
+- 🌱 I’m currently learning HTML, Python & C++
+- 👯 I’m looking to collaborate on ClassWidgets/ClassWidgets
