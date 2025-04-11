@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ![GitHub Data](https://github-readme-stats.vercel.app/api?username=Michaelshenmo)
 
+[![My Skills](https://skillicons.dev/icons?perline=14&i=github,git,githubactions,bash,cloudflare,gcp,gmail,vercel,discord,twitter,docker,electron,html,py,pytorch,idea,java,gradle,maven,yarn,vscode,ts,js,lua,go,md,mysql,nextjs,nginx,nodejs,planetscale,postman,qt,sqlite,stackoverflow,solidjs,svg,vite,vue,workers,zig,ae,pr,au,ps,powershell,regex,wordpress,windows,ubuntu,linux,netlify,vercel,c)](https://skillicons.dev)
+
 - 🔭 I’m currently working on TBSvs.CLS
 - 🌱 I’m currently learning HTML, Python & C++
 - 👯 I’m looking to collaborate on Class-Widgets/Class-Widgets
