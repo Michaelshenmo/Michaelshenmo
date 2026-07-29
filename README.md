@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=3000&pause=1000&random=false&width=435&lines=I%27m+HiMichael0820;A+Chinese+student;Welcome%20to%20my%20GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=3000&pause=1000&random=false&width=435&lines=I%27m+HiMichael0820;A+Chinese+high+school+student;Welcome%20to%20my%20GitHub)](https://git.io/typing-svg)
 
 ![GitHub Data](https://github-readme-stats.vercel.app/api?username=Michaelshenmo&show_icons=true&include_all_commits=true)
 
