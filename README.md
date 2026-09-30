@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ![GitHub Data](https://github-readme-stats.vercel.app/api?username=Michaelshenmo&show_icons=true&include_all_commits=true)
 
-### Tools I Use
+### Tools I (used to) Use
 
 [![My Skills](https://skillicons.dev/icons?perline=14&i=github,git,githubactions,bash,cloudflare,gcp,gmail,netlify,vercel,raspberrypi,arduino,twitter,docker,electron,html,py,pytorch,pycharm,idea,java,gradle,maven,yarn,vscode,ts,js,lua,go,md,mysql,nextjs,nginx,nodejs,planetscale,postman,qt,sqlite,stackoverflow,solidjs,svg,vite,vue,workers,zig,ae,pr,au,ps,powershell,regex,wordpress,windows,ubuntu,linux,c,cpp)](https://skillicons.dev)
