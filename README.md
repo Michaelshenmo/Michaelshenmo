@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ### Tools I (used to) Use
 
-[![My Skills](https://skillicons.dev/icons?perline=14&i=github,git,githubactions,bash,cloudflare,gcp,gmail,netlify,vercel,raspberrypi,arduino,twitter,docker,electron,html,py,pytorch,pycharm,idea,java,gradle,maven,yarn,vscode,ts,js,lua,go,md,mysql,nextjs,nginx,nodejs,planetscale,postman,qt,sqlite,stackoverflow,solidjs,svg,vite,vue,workers,zig,ae,pr,au,ps,powershell,regex,wordpress,windows,ubuntu,linux,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,anaconda,androidstudio,arduino,azure,bash,c,cloudflare,cpp,css,debian,docker,fastapi,figma,git,github,githubactions,gmail,gradle,html,js,mysql,netlify,nginx,nodejs,npm,pnpm,postman,powershell,ps,sqlite,ubuntu,windows,wordpress)](https://skillicons.dev)
